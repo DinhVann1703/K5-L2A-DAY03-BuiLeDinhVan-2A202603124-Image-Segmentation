@@ -1,6 +1,6 @@
 # Báo cáo thực hành Day 3 — điền trực tiếp trong fork của bạn
 
-- Mã học viên theo lớp: 2A202603124 (MSSV: B22DCAT309)
+- Mã học viên theo lớp: 2A202603124
 - Ngày / CVAT local: 11/11/2026 / CVAT local Standard v2.74 (Docker)
 - Công cụ đã dùng: Brush, Polygon, Magic Wand (SAM nuclio interactor)
 
